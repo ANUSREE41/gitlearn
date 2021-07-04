@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("zero")
         
         print("direct entry")
+        print("new entry")
 
     }
 
