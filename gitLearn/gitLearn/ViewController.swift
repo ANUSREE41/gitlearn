@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         print("my git")
 
         print("zero")
+        
+        print("direct entry")
 
     }
 
